@@ -232,7 +232,7 @@ Client as a state machine:
      - Current State
      - Next State
      - Output
-   * - --
+   * - ``begin``
      - IDLE
      - WAIT_1
      - ClientHello
